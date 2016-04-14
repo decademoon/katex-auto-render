@@ -1,0 +1,8 @@
+{
+  "name": "katex-auto-render",
+  "version": "0.0.1",
+  "main": "auto-render.js",
+  "dependencies": {
+    "katex": "^0.5.1"
+  }
+}
